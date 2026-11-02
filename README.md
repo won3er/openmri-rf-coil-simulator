@@ -17,8 +17,4 @@ Estudantes, pesquisadores e engenheiros que querem entender e explorar o projeto
 
 ![Bobina birdcage](images/bobina.png)
 
----
-
-Este repositório é uma **vitrine** do projeto: mostra o que o sistema faz e como ele é. O código-fonte não é público.
-
 Desenvolvido por [@won3er](https://github.com/won3er).
